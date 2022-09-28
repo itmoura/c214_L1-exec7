@@ -1,10 +1,10 @@
 {
-  "name": "exer6",
+  "name": "exerc7",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest --detectOpenHandles --testEnvironment=node --runInBand --coverage --forceExit",
     "start": "node src/index.js"
   },
   "dependencies": {

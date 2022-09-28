@@ -7,6 +7,4 @@ app.use(cors());
 
 require('./controllers/filmeController')(app);
 
-console.log('teste');
-
 app.listen(4000);

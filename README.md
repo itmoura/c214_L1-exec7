@@ -20,12 +20,19 @@ $ git clone <https://github.com/itmoura/c214_L1-exec7.git>
 $ cd exec7-c214
 
 # Instale as dependências
-$ npm install
+$ yarn
 
 # Inicialize a aplicação
-$ npm start
+$ yarn start
 
+# Executa testes
+$ yarn test
+```
 
+### Caso ocorra erro na execução
+
+```
+Execute teste a teste individualmente
 ```
 
 

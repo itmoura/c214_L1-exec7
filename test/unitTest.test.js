@@ -1,5 +1,4 @@
 const Filme = require('../src/models/filme');
-const Constants = require('../src/utils/constants');
 
 it('create move', async () => {
     const filme = {
