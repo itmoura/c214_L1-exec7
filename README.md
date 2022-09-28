@@ -8,7 +8,7 @@ Exercício aula 7 do lab de C214.
 
 Antes de começar, você vai precisar ter instalado o [Node.Js](https://nodejs.dev/en/download/) em seu computador. 
 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disto é bom ter um editor para trabalhar com o código como [WebStorm](https://www.jetbrains.com/pt-br/webstorm/)
 
 ### 🎲 Rodando a aplicação
 
